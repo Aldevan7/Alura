@@ -1,0 +1,10 @@
+.menu__link{
+    color: #333333; /* cor */
+    padding: .5rem 1rem; /* espaçamento */
+}
+
+.menu__link:hover, .menu__link.ativo{
+    border-bottom: 2px solid #0073e6; /* renderiza a borda de baixo */
+    
+   
+}
